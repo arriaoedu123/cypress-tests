@@ -1,0 +1,14 @@
+{
+  "name": "curso-alura",
+  "version": "1.0.0",
+  "description": "Projeto de cypress alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Aryon",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.0.2"
+  }
+}
